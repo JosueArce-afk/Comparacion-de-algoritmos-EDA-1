@@ -1,1 +1,1 @@
-# Comparacion-de-algoritmos-EDA-1
+Proyecto del curso de Estructura de datos 1 
